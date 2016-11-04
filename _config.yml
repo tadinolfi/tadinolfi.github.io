@@ -1,0 +1,78 @@
+# Site settings
+title: Tony Adinolfi
+twitter_username: regulate111
+name: Tony Adinolfi
+#User specific content
+#Links that will appear in the navbar
+primarylinks:
+ - title: Blog
+   url: http://blog.inscopetechnology.com/
+ - title: GitHub
+   url: https://github.com/tadinolfi
+ - title: DZone
+   url: https://dzone.com/users/1440757/TonyAdinolfi.html
+#Any buzzword skills you want to include
+skills:
+ - PHP
+ - Ruby
+ - Python
+ - Perl
+ - Java
+ - Ruby on Rails
+ - Django
+ - REST
+ - SQL
+#Blogfeed is optional - including this will add JS to call the feed and populate blog list
+blogfeed: http://blog.inscopetechnology.com/feeds/posts/default
+#Work experience is required
+roles:
+ - title: Freelancer
+   start: 2013
+   end: Ongoing
+   employer: Inscope Technology Consulting
+   description: Inscope Technology Consulting is an umbrella company I utilize to do freelance projects for many diverse projects and organizations. Focus is geared towards ensuring best practices and quality deliverables.
+ - title: Web Developer
+   start: 2013
+   end: 2013
+   employer: Timberland
+   description: On site contract role responsibilities focused primarily on handling email development and content refreshes. Worked closely with team leads and project managers to implement brand initatives, ensured emails rendered properly in all clients, implement promotions and various updates to internal
+   and public facing web presence.
+ - title: Senior Developer
+   start: 2011
+   end: 2012
+   employer: Dyn - Dynamic Network Services
+   description: Acquired as an employee through the acquisition of Sendlabs an Email SaaS Provider. Responsibilities primarily focused on migration of existing Sendlabs systems to the Dyn architechture, Management and packaging of Full Service Suite for sale to a Third party and continued development and release cycles of the Transactional email platform. As the previous Lead Developer and System Administrator of Sendlabs duties also included writing documentation on the codebase and architecture as well as training other developers as needed.
+ - title: Senior Developer / System Administrator
+   start: 2005
+   end: 2011
+   employer: Clear Logic Technologies
+   description: Clear Logic was a small web development startup that resided and partnered with Griffin York and Krause , it was eventually sold to Dyn in 2011 for an undisclosed amount. I was initially employed as a Jr. Developer of this startup and through dedication, hard work and many late nights. I moved up within the company to Sr. Developer and lead the development and maintenance of two highly successful and profitable email marketing applications that garnered the interest of Manchester based Dyn and the company was sold in 2011. Dyn extended an invitation for employment.
+#Education is required
+education:
+ - level: Associates
+   date: 2003
+   subject: Information Systems and Computer Science
+   school: Manchester Community College
+#This section is optional (as is the image link below)
+coursera:
+   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+   courses:
+    - title: Functional Programming Principles in Scala
+      link: https://www.coursera.org/course/progfun
+      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+      date: September 16, 2013
+#List of interesting Github repo/projects to include - optional
+github:
+#Stackoverflow flair is optional
+stackoverflow:
+   profileurl: http://stackoverflow.com/users/3170990/regulate
+   flairimageurl: http://stackoverflow.com/users/flair/3170990.png
+#Mobile apps section is optional
+apps:
+#An additional info freetext section is optional at the bottom of the page - can be text or HTML
+additionalinfo: |
+   <p><strong>PHP</strong>: I am experienced in a variety of PHP APIs and frameworks. I have worked with PHP since version 4 and has been utilized as a primary language in many projects.</p>
+   <p><strong>Web Development:</strong>I have strong client side experience having extensively worked with HTML, CSS and Javascript and many of the newer APIs and Frameworks such as JQuery, Bootstrap,
+   SaSS, LeSS, Angular and many JQuery plugins. My server side experience has largely been based on PHP coupled with many open sourced and proprietary APIs, Ruby with the Ruby on Rails Framework and I have also dabbled with Python and the Django Framework with a bit of Perl and CGI to throw into the mix.</p>
+   <p><strong>Overall Experience:</strong> During my tenure developing applications, I have worked on small and large teams, developing fun and successful projects which has been very rewarding.</p> 
+   <p><strong>Hobbies:</strong> In my spare time I enjoy learning more about physical computing by building circuits, developing new boards, programming microcontrollers and spending as much time as possible with my family and fast growing 7 yr old little girl.</p>
