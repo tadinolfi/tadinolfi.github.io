@@ -62,6 +62,7 @@ coursera:
       date: September 16, 2013
 #List of interesting Github repo/projects to include - optional
 github:
+   - tadinolfi/Code-Samples
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://stackoverflow.com/users/3170990/regulate
@@ -70,8 +71,9 @@ stackoverflow:
 apps:
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   <p><strong>PHP</strong>: I am experienced in a variety of PHP APIs and frameworks. I have worked with PHP since version 4 and has been utilized as a primary language in many projects.</p>
-   <p><strong>Web Development:</strong>I have strong client side experience having extensively worked with HTML, CSS and Javascript and many of the newer APIs and Frameworks such as JQuery, Bootstrap,
+   <p><strong>PHP:</strong> I am experienced in a variety of PHP APIs and frameworks. I have worked with PHP since version 4 and has been utilized as a primary language in many projects.</p>
+   <p><strong>Web Development:</strong> I have strong client side experience having extensively worked with HTML, CSS and Javascript and many of the newer APIs and Frameworks such as JQuery, Bootstrap,
    SaSS, LeSS, Angular and many JQuery plugins. My server side experience has largely been based on PHP coupled with many open sourced and proprietary APIs, Ruby with the Ruby on Rails Framework and I have also dabbled with Python and the Django Framework with a bit of Perl and CGI to throw into the mix.</p>
-   <p><strong>Overall Experience:</strong> During my tenure developing applications, I have worked on small and large teams, developing fun and successful projects which has been very rewarding.</p> 
+   <p><strong>Over
+   all Experience:</strong> During my tenure developing applications, I have worked on small and large teams, developing fun and successful projects which has been very rewarding.</p> 
    <p><strong>Hobbies:</strong> In my spare time I enjoy learning more about physical computing by building circuits, developing new boards, programming microcontrollers and spending as much time as possible with my family and fast growing 7 yr old little girl.</p>
