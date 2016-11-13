@@ -53,13 +53,13 @@ education:
    subject: Information Systems and Computer Science
    school: Manchester Community College
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
+#coursera:
+#   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
+#   courses:
+#    - title: Functional Programming Principles in Scala
+#      link: https://www.coursera.org/course/progfun
+#      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
+#      date: September 16, 2013
 #List of interesting Github repo/projects to include - optional
 github:
    - tadinolfi/Code-Samples
@@ -74,6 +74,5 @@ additionalinfo: |
    <p><strong>PHP:</strong> I am experienced in a variety of PHP APIs and frameworks. I have worked with PHP since version 4 and has been utilized as a primary language in many projects.</p>
    <p><strong>Web Development:</strong> I have strong client side experience having extensively worked with HTML, CSS and Javascript and many of the newer APIs and Frameworks such as JQuery, Bootstrap,
    SaSS, LeSS, Angular and many JQuery plugins. My server side experience has largely been based on PHP coupled with many open sourced and proprietary APIs, Ruby with the Ruby on Rails Framework and I have also dabbled with Python and the Django Framework with a bit of Perl and CGI to throw into the mix.</p>
-   <p><strong>Over
-   all Experience:</strong> During my tenure developing applications, I have worked on small and large teams, developing fun and successful projects which has been very rewarding.</p> 
-   <p><strong>Hobbies:</strong> In my spare time I enjoy learning more about physical computing by building circuits, developing new boards, programming microcontrollers and spending as much time as possible with my family and fast growing 7 yr old little girl.</p>
+   <p><strong>Overall Experience:</strong> During my tenure as a professional developer and engineer, I have worked on many diverse teams both small and large, with projects ranging from simple web sites to complex applications that required low latency, redundency, and high availability. I am also well versed in Systems & Database Administration having experience with all of the Linux distros, FreeBSD, Windows Server, MySQL, MS SQL Server, Oracle, SQLite, Mongo, CDB and many others.</p> 
+   <p><strong>Hobbies:</strong> In my spare time I enjoy tinkering and learning more about physical computing by building circuits, developing new boards, programming microcontrollers and spending as much time as possible with my family and fast growing 7 yr old little girl.</p>
